@@ -1,12 +1,4 @@
 #!/usr/bin/env python
-'''
-    File name: Assign2.py
-    Author: Siddhant Kumar
-    Email: saytosid@gmail.com
-    Date created: 1 Oct 2017
-    Date last modified: 1 Oct 2017
-    Python Version: 3.0
-'''
 
 from framework import Board,Game,Player
 import numpy as np
