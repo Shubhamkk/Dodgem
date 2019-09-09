@@ -1,11 +1,4 @@
-'''
-    File name: Board.py
-    Author: Siddhant Kumar
-    Email: saytosid@gmail.com
-    Date created: 1 Oct 2017
-    Date last modified: 1 Oct 2017
-    Python Version: 3.0
-'''
+
 from Piece import Piece
 
 class Board:
